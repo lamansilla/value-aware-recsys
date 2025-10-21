@@ -1,0 +1,13 @@
+experiments/exp1_synthetic_data/results
+experiments/exp1_synthetic_data/figures
+experiments/exp1_synthetic_data/data.ipynb
+experiments/exp1_synthetic_data/results.ipynb
+experiments/exp1_synthetic_data/clustering.ipynb
+experiments/exp2_online_retail/online_retail_II.xlsx
+experiments/exp2_online_retail/online_retail_II_clean.csv
+experiments/exp2_online_retail/results
+experiments/exp2_online_retail/figures
+experiments/exp2_online_retail/splits_random
+experiments/exp2_online_retail/results.ipynb
+.vscode
+__pycache__
