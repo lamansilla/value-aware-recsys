@@ -2,14 +2,6 @@
 
 ---
 
-## Requirements
-
- Python ≥ 3.10
-* Conda ≥ 23
-* See `environment.yml` for all dependencies.
-
----
-
 ## Installation
 
 Clone this repository and create the Conda environment with all required dependencies:
@@ -58,3 +50,11 @@ Example usage:
 python -m experiments.exp1_synthetic_data.run_exp1
 python -m experiments.exp2_online_retail.run_exp2
 ```
+
+---
+
+## Requirements
+
+* Python ≥ 3.10
+* Conda ≥ 23
+* See `environment.yml` for all dependencies.
